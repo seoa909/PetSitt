@@ -3,7 +3,6 @@
 
 ## 🐶 Petsitt 둘러보기
 - 사이트 바로가기 : https://petsitt.link/
-- 발표 영상 : https://youtu.be/1Yzl5NAXkyI
 
 <br>
 
@@ -30,23 +29,23 @@
 
 라이브러리 | 설명
 ---|:---:
-<img src='https://img.shields.io/badge/bcrypt-5.0.1-lightgrey'> | 비밀번호 암호화
-<img src='https://img.shields.io/badge/cors-2.8.5-lightgrey'> | 교차 리소스 공유
-<img src='https://img.shields.io/badge/dotenv-16.0.1-lightgrey'>  | 환경변수 관리
-<img src='https://img.shields.io/badge/express-4.18.1-lightgrey'> | 웹 프레임워크
-<img src='https://img.shields.io/badge/helmet-4.6.0-lightgrey'>  | HTTP 헤더 보안
-<img src='https://img.shields.io/badge/joi-17.6.0-lightgrey'>  | 입력데이터 검출
-<img src='https://img.shields.io/badge/jsonwebtoken-8.5.1-lightgrey'>  | 토큰 기반 인증
-<img src='https://img.shields.io/badge/moment-2.29.3-lightgrey'> | 날짜 라이브러리
-<img src='https://img.shields.io/badge/mysql-2.18.1-lightgrey'> | MySQL
-<img src='https://img.shields.io/badge/sequelize-6.21.3-lightgrey'>  | MySQL ORM
-<img src='https://img.shields.io/badge/sequelize--cli-6.4.1-lightgrey'> | MySQL ORM Console
-<img src='https://img.shields.io/badge/multer-1.4.5--lts.1-lightgrey'> | 이미지 업로드
-<img src='https://img.shields.io/badge/multer--s3-2.10.0-lightgrey'> | s3에 이미지 업로드
-<img src='https://img.shields.io/badge/multer--s3--transform-2.4.2-lightgrey'> | 이미지 압축저장 
-<img src='https://img.shields.io/badge/sharp-0.30.7-lightgrey'> | 이미지 리사이징
-<img src='https://img.shields.io/badge/nodemailer-6.7.6-lightgrey'> | 메일 전송
-<img src='https://img.shields.io/badge/socket.io-4.5.1-lightgrey'> | 실시간 상호작용
+<img src='https://img.shields.io/badge/bcrypt-5.0.1-lightgrey'> 
+<img src='https://img.shields.io/badge/cors-2.8.5-lightgrey'>
+<img src='https://img.shields.io/badge/dotenv-16.0.1-lightgrey'> 
+<img src='https://img.shields.io/badge/express-4.18.1-lightgrey'> 
+<img src='https://img.shields.io/badge/helmet-4.6.0-lightgrey'>  
+<img src='https://img.shields.io/badge/joi-17.6.0-lightgrey'>  
+<img src='https://img.shields.io/badge/jsonwebtoken-8.5.1-lightgrey'>  
+<img src='https://img.shields.io/badge/moment-2.29.3-lightgrey'> 
+<img src='https://img.shields.io/badge/mysql-2.18.1-lightgrey'> 
+<img src='https://img.shields.io/badge/sequelize-6.21.3-lightgrey'>  
+<img src='https://img.shields.io/badge/sequelize--cli-6.4.1-lightgrey'> 
+<img src='https://img.shields.io/badge/multer-1.4.5--lts.1-lightgrey'> 
+<img src='https://img.shields.io/badge/multer--s3-2.10.0-lightgrey'> 
+<img src='https://img.shields.io/badge/multer--s3--transform-2.4.2-lightgrey'> 
+<img src='https://img.shields.io/badge/sharp-0.30.7-lightgrey'> 
+<img src='https://img.shields.io/badge/nodemailer-6.7.6-lightgrey'> 
+<img src='https://img.shields.io/badge/socket.io-4.5.1-lightgrey'> 
 
 
 <br>
@@ -147,72 +146,3 @@
   - CPU 사용률 개선 확인을 위한 테스트를 Artillery를 이용하여 진행
 
 ![캡처](https://user-images.githubusercontent.com/105031842/182737681-ff4ddd72-49fd-4987-b22d-39bd0ff8cc65.PNG)
-
-<br>
-
-## 📌 팀원소개
-### 백엔드
-<table width = "200" style="text-align:center;" >
-  <tr>
-    <th height = "40"> Name</th>
-    <th height = "40"> Github</th>
-  </tr>
-  <tr>
-    <td> 김형근 </td>
-    <td> https://github.com/fnvkd5316 </td>
-  </tr>
-  <tr>
-    <td> 유승완 </td>
-    <td> https://github.com/avo1032 </td>
-  </tr>
-  <tr>
-    <td> 서아름 </td>
-    <td> https://github.com/seoa909 </td>
-  </tr>
-  <tr>
-    <td> 김정현 </td>
-    <td> https://github.com/jeong-hyeonkim </td>
-  </tr>
-</table>
-
-
-  
-### 프론트엔드
-<table width = "200" style="text-align:center;" >
-  <tr>
-    <th height = "40"> Name</th>
-    <th height = "40">Github</th>
-  </tr>
-  <tr>
-    <td> 소윤호 </td>
-    <td> https://github.com/younhoso </td>
-  </tr>
-  <tr>
-    <td> 김하연 </td>
-    <td> https://github.com/hayeooooon </td>
-  </tr>
-  <tr>
-    <td> 이정민 </td>
-    <td> https://github.com/jeongmin-dev </td>
-  </tr>
-</table>
-
-<br>
-
-### 디자이너
-<table width = "200" style="text-align:center;" >
-  <tr>
-    <th height = "40"> Name</th>
-    <th height = "40">Blog</th>
-  </tr>
-  <tr>
-    <td> 고가은 </td>
-    <td>  </td>
-  </tr>
-</table>
-
-<br>
-
-
-
-
