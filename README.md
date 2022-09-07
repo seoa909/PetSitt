@@ -3,13 +3,10 @@
 
 ## 🐶 Petsitt 
 - website link : https://petsitt.link/
-
-<br>
-
-
-## 😃 PetSitt 
 Web application built with Express, Node,js. Book a pet care taking service from someone nearby or post your own pet related service on Petsitter.
-
+#### ✅  **Using real-time location information and maps (kakao Map API)**
+#### ✅  **Real-time chat between users and petsitters (Socket.io)**
+#### ✅  **Server-Sent-Events (SSE)**
 
 ## ⚒️ BE TECH STACK 
 ![](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
@@ -20,7 +17,7 @@ Web application built with Express, Node,js. Book a pet care taking service from
 ![](https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 
-LIBRARY 
+## LIBRARY
 ---|:---:
 <img src='https://img.shields.io/badge/bcrypt-5.0.1-lightgrey'> 
 <img src='https://img.shields.io/badge/cors-2.8.5-lightgrey'>
@@ -41,18 +38,9 @@ LIBRARY
 <img src='https://img.shields.io/badge/socket.io-4.5.1-lightgrey'> 
 
 
-
-
 <br>
 
 
-## 🖊 Service Features 
-
-#### ✅  **Using real-time location information and maps (kakao Map API)**
-
-#### ✅  **Real-time chat between users and petsitters (Socket.io)**
-
-#### ✅  **Server-Sent-Events (SSE)**
 
 ## 🏗Service Architecture
 ![KakaoTalk_20220802_180108489](https://user-images.githubusercontent.com/75964402/182356945-32fd49ef-c3ce-4e74-8161-dcfdd0b17890.png)
