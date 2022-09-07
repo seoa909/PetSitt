@@ -3,7 +3,7 @@
 
 ## 🐶 Petsitt 
 - website link : https://petsitt.link/
-Web application built with Express, Node,js. Book a pet care taking service from someone nearby or post your own pet related service on Petsitter.
+#### ✅ Web application built with Express, Node,js. Book a pet care taking service from someone nearby or post your own pet related service on Petsitter.
 #### ✅  **Using real-time location information and maps (kakao Map API)**
 #### ✅  **Real-time chat between users and petsitters (Socket.io)**
 #### ✅  **Server-Sent-Events (SSE)**
@@ -18,7 +18,7 @@ Web application built with Express, Node,js. Book a pet care taking service from
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 
 ## LIBRARY
----|:---:
+
 <img src='https://img.shields.io/badge/bcrypt-5.0.1-lightgrey'> 
 <img src='https://img.shields.io/badge/cors-2.8.5-lightgrey'>
 <img src='https://img.shields.io/badge/dotenv-16.0.1-lightgrey'> 
