@@ -20,7 +20,7 @@ Web application built with Express, Node,js. Book a pet care taking service from
 ![](https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 
-LIBRARY | 
+LIBRARY 
 ---|:---:
 <img src='https://img.shields.io/badge/bcrypt-5.0.1-lightgrey'> 
 <img src='https://img.shields.io/badge/cors-2.8.5-lightgrey'>
@@ -41,10 +41,7 @@ LIBRARY |
 <img src='https://img.shields.io/badge/socket.io-4.5.1-lightgrey'> 
 
 
-<br>
 
-## 📂 [Project Notion - 통합요약본](https://www.notion.so/62309f0a306b44c494fe560ded17ecff)
-## 📂 [Project Notion - API작성문서](https://alike-gasosaurus-a29.notion.site/1-1dfc5a2fcf794052acdc2f1805b6ecde)
 
 <br>
 
